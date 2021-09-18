@@ -7,4 +7,4 @@ This notebook contains all the steps required to solve Inverse Kinematic angles 
 
 Watch the accompaning video: 
 
-![[YouTube Link](https://img.youtube.com/vi/nW5FUVzYCKM/0.jpg)](https://youtu.be/nW5FUVzYCKM)).
+[![YouTube Link](https://img.youtube.com/vi/nW5FUVzYCKM/0.jpg)](https://youtu.be/nW5FUVzYCKM)).
